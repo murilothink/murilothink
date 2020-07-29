@@ -1,4 +1,4 @@
-# Contribuições
+# Contribuições.
 <center>
 <table>
   <tr>
