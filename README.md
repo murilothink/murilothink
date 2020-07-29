@@ -1,4 +1,4 @@
-# Minhas Habilidades
+# Habilidades
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <center>
